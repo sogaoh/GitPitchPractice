@@ -1,0 +1,13 @@
+.nobr  { white-space: nowrap;}
+
+.def-font {font-family: 'ヒラギノ丸ゴ ProN','Hiragino Maru Gothic ProN','メイリオ', Meiryo,sans-serif;}
+
+.reveal section img {
+    border: none;
+    box-shadow: none;
+    background: none;
+}
+
+.reveal .lh-1 {
+    line-height:1;
+}
