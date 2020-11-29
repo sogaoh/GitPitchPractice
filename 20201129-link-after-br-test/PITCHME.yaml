@@ -20,5 +20,6 @@ highlight        : ir-black
 
 theme-override: 20201022-favicon-test/PITCHME.css
 
+footnote : "'by <a href='https://twitter.com/sogaoh' target='__another'>@sogaoh</a>"
 
 slide-number : true
